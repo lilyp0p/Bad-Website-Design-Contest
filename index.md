@@ -1,6 +1,7 @@
-<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/173074892/?autostart=false" frameborder="0" allowfullscreen></iframe>
 
-## Welcome to my dog lover's page!
+## Welcome to my Bunny Hop page!
+
+<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/173074892/?autostart=false" frameborder="0" allowfullscreen></iframe>
 
 You can use the [editor on GitHub](https://github.com/lilyp0p/Bad-Website-Design-Contest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
